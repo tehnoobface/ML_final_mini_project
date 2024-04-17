@@ -1,3 +1,4 @@
-# Files to Ignore:
-*.kv
+# Files to ignore (vector files)
 *.npy
+
+# Files to ignore by name:
